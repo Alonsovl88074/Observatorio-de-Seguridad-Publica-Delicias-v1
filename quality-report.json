@@ -1,0 +1,13 @@
+{
+  "total_rows": 3459,
+  "with_valid_date": 3459,
+  "with_real_coords": 0,
+  "without_real_coords": 3459,
+  "matched_centroid": 2972,
+  "matched_polygon": 2507,
+  "unique_colonias_incidents": 128,
+  "unique_colonias_centroids": 99,
+  "unique_colonias_polygons": 78,
+  "points_mode_enabled": false,
+  "last_updated_utc": "2026-05-08T18:31:51Z"
+}
