@@ -194,23 +194,15 @@ Las siguientes capturas deben colocarse en la raíz del proyecto, en el mismo ni
 
 ### image.jpg
 
-![image.jpg](image.jpg)
+![image.jpg](image-5.jpg)
 
 En esta captura se puede visualizar una parte del módulo de **Inteligencia**, específicamente el gráfico **Riesgo por colonia** y el panel de **Experimentos avanzados**.  
 El gráfico permite observar la comparación entre volumen de incidencias y densidad estimada por km² en distintas colonias, lo que ayuda a identificar territorios con mayor presión delictiva relativa.  
 En la sección de experimentos avanzados se muestran bloques conceptuales para futuras extensiones analíticas, como pronóstico por ventanas móviles, comparación temporal, riesgo territorial ponderado y detección de anomalías.
 
-### image-2.jpg
-
-![image-2.jpg](image-2.jpg)
-
-Esta captura documenta otra vista del módulo de **Inteligencia** centrada en el análisis de **Riesgo por colonia** y los **Experimentos avanzados**.  
-Aquí es posible apreciar cómo el tablero combina visualización estadística y diseño modular para dejar preparada una ruta de crecimiento analítico.  
-También sirve para mostrar la orientación del proyecto hacia una lógica de prevención inteligente, donde el análisis territorial y los experimentos pueden evolucionar hacia modelos más complejos.
-
 ### image-3.jpg
 
-![image-3.jpg](image-3.jpg)
+![image-3.jpg](image-4.jpg)
 
 En esta imagen se observa de forma más completa el módulo de **Inteligencia y experimentos**.  
 Es posible visualizar la barra superior de filtros, la segmentación por pestañas del sistema y dos componentes centrales: la **Matriz temporal** y el panel de **Correlaciones operativas**.  
@@ -226,7 +218,7 @@ Esta vista es clave porque traduce la incidencia delictiva a lectura territorial
 
 ### image-5.jpg
 
-![image-5.jpg](image-5.jpg)
+![image-5.jpg](image-3.jpg)
 
 En esta imagen se presenta una parte del módulo **General**, enfocada en la **Comparación temporal** y el bloque de **Calidad y estructura**.  
 La comparación temporal permite contrastar el periodo actual frente a un periodo previo equivalente, mientras que el panel de calidad resume cobertura de fechas válidas, coincidencia con centroides, coincidencia con polígonos, disponibilidad de puntos reales y número de colonias únicas.  
@@ -234,7 +226,7 @@ Esta sección es importante porque no solo muestra resultados analíticos, sino 
 
 ### image-6.jpg
 
-![image-6.jpg](image-6.jpg)
+![image-6.jpg](image.jpg)
 
 Esta captura muestra la vista principal del módulo **General** del tablero.  
 Aquí se pueden observar los indicadores clave o KPIs, como volumen total, delito principal, colonia principal, cobertura temporal, coincidencia con centroides y coincidencia con polígonos.  
