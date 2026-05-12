@@ -186,9 +186,61 @@ También puede funcionar como base para futuras integraciones con fuentes más c
 ├── catalogo-colonias.json
 └── README.md
 ```
-
 ---
 
+## Capturas del tablero
+
+Las siguientes capturas deben colocarse en la raíz del proyecto, en el mismo nivel que `README.md`, `index.html` y los archivos JSON del tablero.
+
+### image.jpg
+
+![image.jpg](image.jpg)
+
+En esta captura se puede visualizar una parte del módulo de **Inteligencia**, específicamente el gráfico **Riesgo por colonia** y el panel de **Experimentos avanzados**.  
+El gráfico permite observar la comparación entre volumen de incidencias y densidad estimada por km² en distintas colonias, lo que ayuda a identificar territorios con mayor presión delictiva relativa.  
+En la sección de experimentos avanzados se muestran bloques conceptuales para futuras extensiones analíticas, como pronóstico por ventanas móviles, comparación temporal, riesgo territorial ponderado y detección de anomalías.
+
+### image-2.jpg
+
+![image-2.jpg](image-2.jpg)
+
+Esta captura documenta otra vista del módulo de **Inteligencia** centrada en el análisis de **Riesgo por colonia** y los **Experimentos avanzados**.  
+Aquí es posible apreciar cómo el tablero combina visualización estadística y diseño modular para dejar preparada una ruta de crecimiento analítico.  
+También sirve para mostrar la orientación del proyecto hacia una lógica de prevención inteligente, donde el análisis territorial y los experimentos pueden evolucionar hacia modelos más complejos.
+
+### image-3.jpg
+
+![image-3.jpg](image-3.jpg)
+
+En esta imagen se observa de forma más completa el módulo de **Inteligencia y experimentos**.  
+Es posible visualizar la barra superior de filtros, la segmentación por pestañas del sistema y dos componentes centrales: la **Matriz temporal** y el panel de **Correlaciones operativas**.  
+La matriz temporal permite identificar concentraciones por día y mes, mientras que el panel de correlaciones resume hallazgos relevantes como concentración temática, concentración territorial, estado procesal dominante y mayor densidad estimada.
+
+### image-4.jpg
+
+![image-4.jpg](image-4.jpg)
+
+Esta captura corresponde al módulo de **Cartografía operativa**.  
+Aquí se puede visualizar el mapa del observatorio con representación espacial por colonia, el aviso sobre la ausencia de coordenadas reales por incidente, la cobertura territorial, el ranking de colonias con mayor concentración y una tabla lateral de apoyo analítico.  
+Esta vista es clave porque traduce la incidencia delictiva a lectura territorial y facilita identificar patrones geográficos, zonas prioritarias y distribución espacial del fenómeno.
+
+### image-5.jpg
+
+![image-5.jpg](image-5.jpg)
+
+En esta imagen se presenta una parte del módulo **General**, enfocada en la **Comparación temporal** y el bloque de **Calidad y estructura**.  
+La comparación temporal permite contrastar el periodo actual frente a un periodo previo equivalente, mientras que el panel de calidad resume cobertura de fechas válidas, coincidencia con centroides, coincidencia con polígonos, disponibilidad de puntos reales y número de colonias únicas.  
+Esta sección es importante porque no solo muestra resultados analíticos, sino también la consistencia estructural de los datos integrados en la versión V3.
+
+### image-6.jpg
+
+![image-6.jpg](image-6.jpg)
+
+Esta captura muestra la vista principal del módulo **General** del tablero.  
+Aquí se pueden observar los indicadores clave o KPIs, como volumen total, delito principal, colonia principal, cobertura temporal, coincidencia con centroides y coincidencia con polígonos.  
+Además, se visualizan dos componentes analíticos esenciales: la **Línea de tiempo**, que ayuda a reconocer tendencias del comportamiento delictivo, y el **Histograma múltiple**, que permite identificar rápidamente las categorías con mayor frecuencia dentro del conjunto de datos filtrado.
+
+---
 ## Publicación
 
 Este proyecto fue preparado para publicarse fácilmente en GitHub Pages. Basta con subir los archivos a la raíz del repositorio, activar la opción `Deploy from a branch` y publicar desde la carpeta `/root`.
